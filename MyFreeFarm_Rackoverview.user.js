@@ -646,7 +646,7 @@ function showMarket(pid){
                                             text["de"]["rackoverview"] = new Object();
                                                                    
                                             text["de"]["rackoverview"]["msgUpdate"] = "Es liegt eine neue Script-Version vor rackoverview. Diese installieren?";
-                                            text["de"]["rackoverview"]["shouldUpdateBerater"] = "Du solltest das Berater-Script aktualisieren!<br>Der Rackoverview-Script wird nicht ordnungsgem"+a_dots+sz+" arbeiten.";
+                                            text["de"]["rackoverview"]["shouldUpdateBerater"] = "Du solltest das Berater-Script aktualisieren!<br>Der Rackoverview-Script wird nicht ordnungsgemäß arbeiten.";
                                     }
                            
                             break;}
